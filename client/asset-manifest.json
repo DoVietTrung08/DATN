@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6a0d95b.css",
+    "main.js": "/static/js/main.081a48af.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/kimdong-logo.png": "/static/media/kimdong-logo.1b00d7297ebf37901017.png",
+    "static/media/banner-sach-ktkn.jpg": "/static/media/banner-sach-ktkn.171529a34068c9301fa5.jpg",
+    "static/media/bk-logo.png": "/static/media/bk-logo.1fd52f1e02d7ab4c8c63.png",
+    "static/media/qg-logo.png": "/static/media/qg-logo.ff863686abc0930215dc.png",
+    "static/media/male.png": "/static/media/male.9030bb62ae8fd622e1c4.png",
+    "static/media/icon-payment-cash.svg": "/static/media/icon-payment-cash.68a37e1ab8410460b2456e25ca395243.svg",
+    "index.html": "/index.html",
+    "static/media/icon-payment-atm.svg": "/static/media/icon-payment-atm.4388cb279d0792669d84ac2a1afdc000.svg",
+    "main.a6a0d95b.css.map": "/static/css/main.a6a0d95b.css.map",
+    "main.081a48af.js.map": "/static/js/main.081a48af.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a0d95b.css",
+    "static/js/main.081a48af.js"
+  ]
+}
